@@ -1,1 +1,3 @@
-Name: Alyssa Gamelo\nEmail: agamelo@myseneca.ca\nID: 064540040
+Name: Alyssa Gamelo
+Email: agamelo@myseneca.ca
+ID: 064540040
